@@ -41,8 +41,13 @@ const productDetails = (firstProduct, secondProduct) => [
     },
   },
 ];
-console.log(productDetails()[0].details);
-// const array = [1];
+let product1 = productDetails()[0].details.productId;
+let product2 = productDetails()[1].details.productId;
+// console.log(product1);
+// console.log(product2);
+console.log(product1.endsWith('123'));
+// console.log(productDetails()[0].details.productId);
+// // const array = [1];
 // console.log(Array.isArray(productDetails()));
 
 module.exports = productDetails;
