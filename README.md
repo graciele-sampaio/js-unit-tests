@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="image-js-unit-tests" src="https://i.imgur.com/4f687IN.png"/>
+  <img alt="image-js-unit-tests" src="https://i.imgur.com/fTE1S3N.png"/>
 </div>
 <h1 align="center">Js Unit Tests</h1>
 
