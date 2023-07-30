@@ -4,7 +4,7 @@
 <h1 align="center">Js Unit Tests</h1>
 
 <p align="center">
-Escrevi testes unitários utilizando o Jest do NodeJS, implementei funções que já tinham testes implementados.
+Testes unitários implementados através do framework Jest, além disso, foram escritas funções que já tinham testes implementados.
 </p>
 
 
