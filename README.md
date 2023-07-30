@@ -1,13 +1,33 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+![image](https://github.com/graciele-sampaio/js-unit-tests/assets/102543137/89b25845-92b8-42d2-bf5d-a1f4a9b6ec1a)<div align="center">
+  <img alt="image-js-unit-tests" src="https://i.imgur.com/4f687IN.png"/>
+</div>
+<h1 align="center">Js Unit Tests</h1>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p align="center">
+Escrevi testes unitários utilizando o Jest do NodeJS, implementei funções que já tinham testes implementados.
+</p>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## Tecnologias utilizadas
+
+[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="25" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+&nbsp;
+[<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" title="Jest" height="25" />](https://jestjs.io/docs/getting-started)
+&nbsp;
+## Baixando projeto:
+
+Clone o repositório 
+```bash
+git@github.com:graciele-sampaio/school-magic-form.git
+```
+
+Entre na pasta criada:
+```bash
+cd school-magic-form
+```
+
+Instale as dependências
+```bash
+npm install
+```
+
