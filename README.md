@@ -1,4 +1,4 @@
-![image](https://github.com/graciele-sampaio/js-unit-tests/assets/102543137/89b25845-92b8-42d2-bf5d-a1f4a9b6ec1a)<div align="center">
+<div align="center">
   <img alt="image-js-unit-tests" src="https://i.imgur.com/4f687IN.png"/>
 </div>
 <h1 align="center">Js Unit Tests</h1>
