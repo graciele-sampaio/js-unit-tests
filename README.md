@@ -18,12 +18,12 @@ Testes unitários implementados através do framework Jest, além disso, foram e
 
 Clone o repositório 
 ```bash
-git@github.com:graciele-sampaio/school-magic-form.git
+git@github.com:graciele-sampaio/js-unit-tests.git
 ```
 
 Entre na pasta criada:
 ```bash
-cd school-magic-form
+cd js-unit-tests
 ```
 
 Instale as dependências
